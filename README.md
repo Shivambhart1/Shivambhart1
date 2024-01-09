@@ -3,4 +3,5 @@
 # 👯 I’m looking to collaborate on projects related to web development
 # 📫 How to reach me: 
 # 😄 Pronouns: He/him
-# ⚡ Fun fact: I am a sketcher and a Cinephile
+# ⚡ Hobbies: I like sketching and have a good taste in movies
+
